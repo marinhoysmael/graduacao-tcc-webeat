@@ -13,5 +13,7 @@ Uma aplicação escrita em Java Mentawai que atende as demandas do cliente web;
 
 ## Tecnologias:
 WEB REST JERSEY (https://eclipse-ee4j.github.io/jersey/)
+
 WEB ACTION BASED MENTAWAI (http://www.mentaframework.org/Page.mtw)
+
 DBA ORM HIBERNATE (https://hibernate.org/)
